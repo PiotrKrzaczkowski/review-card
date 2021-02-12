@@ -17,7 +17,7 @@ main {
   align-items: center;
 }
 .container {
-  width: 80%;
+  width: 90%;
   max-width: 600px;
   display: flex;
   flex-direction: column;
@@ -32,13 +32,13 @@ main {
   justify-content: center;
 }
 h2 {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-align: center;
   font-size: 2rem;
 }
 .underline {
   width: 100px;
-  height: 5px;
+  height: 2px;
   background-color: rgb(70, 70, 200);
 }
 
@@ -48,13 +48,13 @@ h2 {
   justify-content: center;
   align-items: center;
   margin-top: 50px;
-  padding: 20px;
+  padding: 20px 0;
   box-shadow: 3px 4px 15px rgba(0, 0, 0, 0.1);
 }
 .img-container {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 15px;
+  width: 150px;
+  height: 150px;
+  margin: 10px 0;
   border-radius: 50%;
   position: relative;
 }
